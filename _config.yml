@@ -10,7 +10,7 @@ place_name: City, ST
 title: Your Name's Blog
 description: Blog
 url: https://csdaviddo.github.io/csdzungdo/
-main_github_io: true
+main_github_io: false
 long_description: >-
     Hi!  Welcome to the template github.io blog site.  This can be a paragraph
     introducing yourself which will go at the top of the main page for your
